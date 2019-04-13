@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp2
 {
-    public partial class Form1 : Form
+    public partial class fieldWindow : Form
     {
         List<Hand> HandList = new List<Hand>();
         int test = 300;
@@ -48,7 +48,7 @@ namespace WindowsFormsApp2
 
         }
 
-        public Form1()
+        public fieldWindow()
         {
             InitializeComponent();
             
@@ -66,7 +66,9 @@ namespace WindowsFormsApp2
             dynamicLabel.Location = new Point(test, 700);
             dynamicLabel.Height = 122;            
             dynamicLabel.Width = 122;           
-            dynamicLabel.Image = Image.FromFile(@"C:\Users\aurel\Documents\Visual Studio Projects\ygo\WindowsFormsApp2\WindowsFormsApp2\pics\cards\cards (81x122)\" + HandList[0].getId() + ".jpg");
+            // dynamicLabel.Image = Image.FromFile(@"C:\Users\aurel\Documents\Visual Studio Projects\ygo\WindowsFormsApp2\WindowsFormsApp2\pics\cards\cards (81x122)\" + HandList[0].getId() + ".jpg");
+            dynamicLabel.Image = Image.FromFile(@"C:\Users\aurel\Documents\Visual Studio 2017\Projects\ygoPro\WindowsFormsApp2\pics\cards\cards (81x122)\" + HandList[0].getId() + ".jpg");
+
             test = test + 100;
             Controls.Add(dynamicLabel);
 
