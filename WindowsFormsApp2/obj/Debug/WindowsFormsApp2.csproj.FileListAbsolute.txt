@@ -18,3 +18,14 @@ C:\Users\aurel\Documents\Visual Studio Projects\ygo\WindowsFormsApp2\WindowsForm
 C:\Users\aurel\Documents\Visual Studio Projects\ygo\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
 C:\Users\aurel\Documents\Visual Studio Projects\ygo\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
 C:\Users\aurel\Documents\Visual Studio Projects\ygo\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\aurel\Documents\Visual Studio 2017\Projects\ygoPro\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\aurel\Documents\Visual Studio 2017\Projects\ygoPro\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\aurel\Documents\Visual Studio 2017\Projects\ygoPro\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\aurel\Documents\Visual Studio 2017\Projects\ygoPro\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\aurel\Documents\Visual Studio 2017\Projects\ygoPro\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\aurel\Documents\Visual Studio 2017\Projects\ygoPro\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\aurel\Documents\Visual Studio 2017\Projects\ygoPro\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\aurel\Documents\Visual Studio 2017\Projects\ygoPro\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\aurel\Documents\Visual Studio 2017\Projects\ygoPro\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\aurel\Documents\Visual Studio 2017\Projects\ygoPro\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.fieldWindow.resources
+C:\Users\aurel\Documents\Visual Studio 2017\Projects\ygoPro\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.deckWindow.resources
